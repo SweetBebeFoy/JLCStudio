@@ -12,7 +12,7 @@ From 2019 - 2024
 
 ### Collections 
 Phantoms of Blue 
-![Morgen's Last Gig] (/assets/img/Morgen's Last Gig.webp
+![Morgen's Last Gig] (/assets/img/Morgen's Last Gig.webp)
 - Some kind of Blue
 - Devil's Shadow
 
