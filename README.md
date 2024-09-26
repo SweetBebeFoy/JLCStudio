@@ -1,5 +1,3 @@
-# JLC Studio
-
 ### Edacation
 Fine Arts
 
@@ -19,3 +17,4 @@ Phantoms of Blue
 
 
 ### Projects
+### theme: jekyll-theme-minimal
