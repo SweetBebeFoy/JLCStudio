@@ -18,4 +18,3 @@ Phantoms of Blue
 
 
 ### Projects
-theme: jekyll-theme-minimal
